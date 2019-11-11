@@ -453,10 +453,12 @@ img {
 }
 img.pull-right { margin: 12px 0px 0px 18px; }
 img.pull-left { margin: 12px 18px 0px 0px; }
-
-#electosimg{
-   height: 215px;
+@media only screen and (min-width: 600px) {
+   #electosimg{
+      height: 215px;
+   }
 }
+
 
 /*  6. Buttons  --------------------------------------------------------- */
 
