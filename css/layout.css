@@ -420,31 +420,31 @@ ul#nav li.current a {
 }
 
 .wordpress {
-    width: 60%;
+    width: 80%;
     -moz-animation: wordpress 2s ease;
     -webkit-animation: wordpress 2s ease;
 }
 
 .css {
-    width: 85%;
+    width: 90%;
     -moz-animation: css 2s ease;
     -webkit-animation: css 2s ease;
 }
 
 .html5 {
-    width: 90%;
+    width: 93%;
     -moz-animation: html5 2s ease;
     -webkit-animation: html5 2s ease;
 }
 
 .javascript {
-    width: 75%;
+    width: 85%;
     -moz-animation: javascript 2s ease;
     -webkit-animation: javascript 2s ease;
 }
 
 .react {
-    width: 65%;
+    width: 83%;
     -moz-animation: react 2s ease;
     -webkit-animation: react 2s ease;
 }
